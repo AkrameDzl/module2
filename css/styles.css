@@ -63,5 +63,6 @@
 @media (max-width: 767px) {
   #main-content {
     margin: 20px;
+    border-radius: serif;
   }
 }
