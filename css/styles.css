@@ -54,9 +54,14 @@
 }
 /* END HEADER */
 #main-content {
-  margin: 20px;
+  margin-bottom: 10px;
   padding: 20px;
   background-color: black;
   color: white;
   border: 1px solid purple;
+}
+@media (max-width: 767px) {
+  #main-content {
+    margin: 20px;
+  }
 }
